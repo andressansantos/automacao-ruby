@@ -34,7 +34,7 @@ gem 'httparty', '0.18.1'
 
 ## Getting started
 
-* To install gems cmder dentro da pasta de instalação [cd c:\qnw\parodify]:
+* Como instalar as gems utilizando o Cmder dentro da pasta de instalação [cd c:\qnw\parodify]:
 >    $ bundle install
 
 ## How to use
@@ -49,11 +49,9 @@ Here will be the images and descriptions. Principal content.
 
 ## Links
 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Gems: https://rubygems.org/
+  - Visual Studio Code: https://visualstudio.microsoft.com/pt-br/downloads/ 
+  - Cmder: https://cmder.net/
 
 
 ## Versioning
@@ -63,7 +61,7 @@ Here will be the images and descriptions. Principal content.
 
 ## Authors
 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **YOUR NAME**: @ANDRESSANSANTOS (https://github.com/ANDRESSANSANTOS)
 
 
 Please follow github and join us!
