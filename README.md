@@ -2,9 +2,9 @@
 
 ![Logo of the project](http://logo_link)
 
-## Name_of_the_project
+## Rojeto de automação de testes na pagina de login Parodify
 
-... Description
+Criação de automação de testes com Ruby, utilizando cucumber, capybara, esquema do cenário.
 
 
 ## Technology 
@@ -23,16 +23,19 @@ Here are the technologies used in this project.
 
 
 ## Ruby Gems
-...
+
+source "https://rubygems.org"
+
+gem 'capybara', '3.33'
+gem 'cucumber', '5.2'
+gem 'selenium-webdriver', '3.142.7'
+gem 'rspec', '3.10'
+gem 'httparty', '0.18.1'
 
 ## Getting started
 
-* To install gems:
+* To install gems cmder dentro da pasta de instalação [cd c:\qnw\parodify]:
 >    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
 
 ## How to use
 
