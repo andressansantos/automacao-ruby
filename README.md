@@ -6,31 +6,26 @@
 
 Criação de automação de testes com Ruby, utilizando cucumber, capybara, esquema do cenário.
 
-
 ## Technology 
 
-Here are the technologies used in this project.
+Aqui você verás as tecnologias utilizadas.
 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
-
-
-## Services Used
-
-* Github
-* ...
-
+* Ruby 
+* Gems
+* Visual Studio Code
+* CmDer
 
 ## Ruby Gems
 
+Declarar no arquivo **Gemfile**
+
 source "https://rubygems.org"
 
-gem 'capybara', '3.33'
-gem 'cucumber', '5.2'
-gem 'selenium-webdriver', '3.142.7'
-gem 'rspec', '3.10'
-gem 'httparty', '0.18.1'
+ - gem 'capybara', '3.33'
+ - gem 'cucumber', '5.2'
+ - gem 'selenium-webdriver', '3.142.7'
+ - gem 'rspec', '3.10'
+ - gem 'httparty', '0.18.1'
 
 ## Getting started
 
