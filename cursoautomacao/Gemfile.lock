@@ -52,6 +52,7 @@ GEM
       cucumber-cucumber-expressions (~> 10.3, >= 10.3.0)
       cucumber-messages (~> 13.0, >= 13.0.1)
     diff-lcs (1.4.4)
+    ffi (1.13.1)
     ffi (1.13.1-x64-mingw32)
     httparty (0.18.1)
       mime-types (~> 3.0)
@@ -63,18 +64,20 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2020.1104)
     mini_mime (1.0.2)
-    mini_portile2 (2.4.0)
     minitest (5.14.2)
     multi_test (0.1.2)
     multi_xml (0.6.0)
-    nokogiri (1.10.10-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.13.3-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.13.3-x86_64-linux)
+      racc (~> 1.4)
     protobuf-cucumber (3.10.8)
       activesupport (>= 3.2)
       middleware
       thor
       thread_safe
     public_suffix (4.0.6)
+    racc (1.6.0)
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -108,6 +111,7 @@ GEM
 
 PLATFORMS
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   capybara (= 3.33)
